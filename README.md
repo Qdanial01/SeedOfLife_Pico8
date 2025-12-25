@@ -11,7 +11,7 @@
 - **Buy, Plant, Sell -** the loop of the game hinges on managing resources: buy seeds, cultivate them, harvest the produce, then sell to earn coins and repeat to grow your farm
 
 ## 🧠 Process
-I started by making the tiles and sprites of the game, which includes the full growth cycle of the crops. Once the full tile set of the crops growing was created, I then moved to the creation of the characte,r which is a hovering robot. I then created placeholder tiles of buy, sell and charge areas that the player will interact with. 
+I started by making the tiles and sprites of the game, which includes the full growth cycle of the crops. Once the full tile set of the crops growing was created, I then moved to the creation of the character, which is a hovering robot. I then created placeholder tiles of buy, sell and charge areas that the player will interact with. 
 
 For the hud, I started by making each icon and placed it at the very bottom of the map. To build the yellow target system, I created a yellow square and marked that as a sprite as well. Using the player’s position as reference, the yellow target is dynamically drawn at the bottom tip of the robot giving a clear visual cue for actions and targeting. 
 
